@@ -1,7 +1,7 @@
 ---
 id: 001
 nome: Perry
-autor: @armand1m
+autor: armand1m
 url: https://github.com/perry-js/perry
 ---
 

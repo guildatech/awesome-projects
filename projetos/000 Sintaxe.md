@@ -1,7 +1,7 @@
 ---
 id: 000
 nome: Exemplo
-autor: jcserracampos
+autor: jcserracampos NÃO COLOCAR @
 url: https://github.com/DevsOnBeer/awesome-projects
 ---
 
