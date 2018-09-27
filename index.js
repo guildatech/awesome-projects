@@ -6,8 +6,10 @@ const app = express();
 
 //API endpoints
 app.get('/api/v1/projetos', (req, res) => {
-    res.json(getProjects);
-});
+    getProjects()
+        .then(data => {
+    res.json(JSON.stringify(data));
+})});
 
 app.get('/api/v1/projeto/:id', (req, res) => {
     // Get projeto
