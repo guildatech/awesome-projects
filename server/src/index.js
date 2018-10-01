@@ -1,6 +1,6 @@
 const express = require('express');
 
-const { getProjects, getProject } = require('./lib/getProjects');
+const { getProjects, getProject } = require('./handlers/getProjects');
 
 const app = express();
 
