@@ -20,4 +20,4 @@ app.get('/api/v1/projeto/:id', (req, res) => {
     res.status(404).json( { message: 'Desculpa. Projeto não encontrado.' });
 })
 
-app.listen(3000, () => console.log(`app listening on port`))
+var server = app.listen(3000, () => console.log('app listening on port %d', server.address().port))
