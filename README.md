@@ -1,7 +1,7 @@
 # awesome-projects
-Awesome Projects é um repositórios dos projetos open source dos membros do [#DevsOnBeer](https://t.me/devsonbeer).
+Awesome Projects é um repositórios dos projetos open source das pessoas membros da [#GuildaTech](https://t.me/guildatech).
 
-Projetos de pessoas que não são do grupo SERÃO ACEITOS também, mas custa nada entrar no grupo. 😉
+Projetos de pessoas que não são do grupo SERÃO ACEITOS também, mas custa nada participar. 😉
 
 A princípio será um repositório com arquivos markdown descrevendo o projeto, as 
 tecnologias utilizadas e se precisa de ajuda.
