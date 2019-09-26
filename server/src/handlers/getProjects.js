@@ -11,7 +11,7 @@ renderer.link = function(href, title, text){
 }
 
 const loadProjects = async () => {
-    const files = await glob('projetos/*.md');
+    const files = await glob('../projetos/*.md');
 
     return await Promise.all(files.map( async (file) => {
         return readAFile(file, 'utf8')
